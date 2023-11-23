@@ -34,7 +34,7 @@ cd puzzl-15-game
 3. Run the game:
 
 ```bash
-python puzzl-15-game.py
+python puzzl_15_game.py
 ```
 
 ## How to Play
@@ -53,6 +53,6 @@ python puzzl-15-game.py
 
 ## File Structure
 
-- `puzzl-15-game.py`: The main Python script containing the game logic.
+- `puzzl_15_game.py`: The main Python script containing the game logic.
 - `images/`: Directory containing puzzle images.
 
