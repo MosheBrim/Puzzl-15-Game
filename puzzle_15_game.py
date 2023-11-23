@@ -5,7 +5,6 @@ import random
 from tkinter import filedialog
 import pygame
 
-# Initialize pygame
 pygame.init()
 
 def play_sound(sound_file):
