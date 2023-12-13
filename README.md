@@ -1,4 +1,4 @@
-# puzzl-15-game
+# puzzle-15-game
 
 This is a simple puzzle game developed using Python's Tkinter library. The game allows players to solve puzzles by rearranging tiles to complete an image.
 
@@ -17,7 +17,7 @@ You can install the dependencies using the following command:
 pip install pillow pygame
 ```
 
-## Getting Started
+## Getting started
 
 1. Clone the repository:
 
@@ -28,13 +28,13 @@ git clone https://github.com/MosheBrim/puzzl-15-game.git
 2. Navigate to the project directory:
 
 ```bash
-cd puzzl-15-game
+cd puzzle-15-game
 ```
 
 3. Run the game:
 
 ```bash
-python puzzl_15_game.py
+python puzzle_15_game.py
 ```
 
 ## How to Play
@@ -42,7 +42,7 @@ python puzzl_15_game.py
 - The game starts with a default image (horse.png) divided into 16 tiles.
 - Use the provided image buttons on the left to change the puzzle image.
 - Rearrange the tiles to complete the image.
-- Click the "משחק חדש" (New Game) button to restart the game.
+- Click the "New Game" button to restart the game.
 
 ## Features
 
@@ -56,3 +56,7 @@ python puzzl_15_game.py
 - `puzzl_15_game.py`: The main Python script containing the game logic.
 - `images/`: Directory containing puzzle images.
 
+## Gameplay Video
+
+[Watch the gameplay video here](https://drive.google.com/file/d/1JYYfXcUYgilc3nrEFUGiIuKsvXpnyG4q/view?usp=drive_link)
+```
